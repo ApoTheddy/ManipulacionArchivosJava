@@ -1,0 +1,2 @@
+Juan|Zapata|30|123|Lima|soltero
+Jesus|Esquives|25|123|Lima|soltero
